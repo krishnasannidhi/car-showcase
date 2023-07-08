@@ -13,7 +13,7 @@ const SearchBar = () => {
       <div className="searchbar__item">
         <SearchManfacturer
           manufacturer={manufacturer}
-          setManfacturer={setManufacturer}
+          setManufacturer={setManufacturer}
         />
       </div>
     </form>
